@@ -10,8 +10,8 @@
 ---
 
 ### ⚡ Un poco sobre mí
-- 🔭 Actualmente trabajando en proyectos de **Java de 3 capas**.
-- 📚 Dominando **Oracle SQL** y gestión de bases de datos.
+- 🔭 Actualmente realizo programaciones web.
+- 📚 Dominando todas mis herramientas y tecnologias.
 - ⚡ Me apasiona el diseño de interfaces limpias y funcionales.
 
 ---
