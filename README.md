@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Mariela%20Diana%20&fontSize=80&animation=fadeIn&fontAlignY=35" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=100&section=header&text=Mariela%20Diana%20Polin&fontSize=50&animation=fadeIn&fontAlignY=55&stroke=00b4d8&strokeWidth=1" />
 
   ### 🚀 Software Engineering Student @ SENATI
   *"Transformando líneas de código en soluciones reales"*
