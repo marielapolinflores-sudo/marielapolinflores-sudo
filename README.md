@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🕯️ Mariela Polin 
+#  Mariela Polin 
 
-**Programadora • Lima PE**
+**Programadora👩‍💻
 
 *"El código es el lenguaje con el que diseño el futuro, elegante y funcional."*
 
