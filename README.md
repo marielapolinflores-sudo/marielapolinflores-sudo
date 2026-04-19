@@ -17,7 +17,8 @@
 ---
 ### 🛠️ Herramientas y Tecnologías
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,oracle,git,github,vscode,html,css,javascript,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,html,css,javascript,python&theme=dark" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="Oracle" />
 </p>
 
 ---
