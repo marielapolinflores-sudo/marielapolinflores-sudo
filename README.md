@@ -21,7 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
 </p>
 
-💾 Base de Datos: Oracle SQL Developer | SQL | PL/SQL
 
 ---
 
